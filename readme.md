@@ -13,7 +13,7 @@ They may have experience about the kind of issue you're trying to solve. Allow t
 >Picture credits: [By malko](https://github.com/malko) [under WTFPL v2 licence](https://fr.wikipedia.org/wiki/WTFPL)
 
 ## 4 - **Implement** the design
-Now you and your peers agreed on the path to take, it's time to implement the solution. Having think about it before instead of jumping in head first, you will probably implement it faster.
+Now that you and your peers agreed on the path to take, it's time for you to implement the solution. Having think about it before instead of jumping in head first, you will probably implement it faster.
 
 ## 5 - **Test** your work
 Before asking anyone to take a look at your work, you must be sure it does what it is intended for. It's unpleasant for the reviewer to discover a non functional implementation, and it's no more pleasant to show a broken code to others.
